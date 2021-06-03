@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse against transubstantiation, delivered in a sermon at St. Warbrough's Church, Dublin, on the 17th of September, 1699. / By the learned Dr. Fowler, soon after his being admitted into the communion of the Church of England. Wherein he proves the Protestant doctrine, concerning the blessed sacrament, the Holy Scriptures, from the fathers of the primitive church, and by sense and reason, to be the only true doctrine of Christ.</title>
+            <author>Fowler, Dr.</author>
+         </titleStmt>
+         <extent>Approx. 80KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84757</idno><idno type="EEBO-CITATION">47683449</idno>
+  <idno type="VID">172910</idno>
+  <idno type="EEBO-PROQUEST">2240887495</idno>
+  
+            <idno type="STC">Wing F1691</idno>
+            <idno type="STC">ESTC R181322</idno>
+            <idno type="OCLC">47683449</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse against transubstantiation, delivered in a sermon at St. Warbrough's Church, Dublin, on the 17th of September, 1699. / By the learned Dr. Fowler, soon after his being admitted into the communion of the Church of England. Wherein he proves the Protestant doctrine, concerning the blessed sacrament, the Holy Scriptures, from the fathers of the primitive church, and by sense and reason, to be the only true doctrine of Christ.</title>
+                  <author>Fowler, Dr.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Milner ... and Samuel Adey ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded, stained, and worm-holed, with loss of text.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Luke, XXII, 19 --  Sermons.</term>
+               <term type="topical_term">Transubstantiation --  Controversial literature --  Early Works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172910:1"/>
+            <pb facs="tcp:172910:1"/>
+            <p>A DISCOURSE Against Transubstantiation, Delivered in a SERMON At St. Warbrough's Church, Dublin, on the 17th of <hi>September,</hi> 1699.</p>
+            <p>By the Learned Dr. <hi>Fowler,</hi> soon after his be<g ref="char:EOLhyphen"/>ing admitted into the Communion of the Church of <hi>England.</hi>
+            </p>
+            <p>Wherein he proves the Protestant Doctrine, concerning the Blessed Sacrament, by the holy Scriptures, from the Fathers of the Primitive Church, and by Sense and Reason, to be the only true Doctrine of Christ.</p>
+            <p>D. O. M. <hi>In Testimonium Evangeliae veritatis.</hi>
+            </p>
+            <p>
+               <hi>DUBLIN,</hi> Printed for <hi>Jacob Milner,</hi> Bookseller in <hi>Essex-Street,</hi> and <hi>Samuel Adey</hi> Book-binder in <hi>Copper Alley,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:172910:2"/>
+            <pb n="1" facs="tcp:172910:2"/>
+            <head>A Sermon Preach'd at St. Warbroughs Church on Sunday the Seventeenth day of September, 1699.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St. Luke 22. vers. 19.</hi>
+                  </bibl>
+                  <p>And he took Bread, and when he had given thanks, he brake it, and gave to them, saying, this is my body, which is given for you, do this in remembrance of me.</p>
+               </q>
+            </epigraph>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Opinion. </seg>1</label> THE blessed Sacrament of the Lord's Supper is one of the most important points of Christian Religion. All Christians agree, that it is a true and proper Sacrament, but they do not agree, how the invisible part thereof, namely the Body and Blood of Christ is present therein; or how conveyed and received. And this is the principle and source of all Controversies concerning the Sacrament and what divides the Chri<g ref="char:EOLhyphen"/>stian World; for some grounded not upon Scripture, but upon Tradition, and Church-Authority, will have the blessed Sacrament, to be the Corporal and Real Body of Christ, as it was upon the Cross, and will have no Christian to believe, that the substance of the Bread doth remain in the Sacrament;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Opinion. </seg>2</label> Others no better grounded or principled, affirm that the Body of Christ is corporally in the Sacrament, and that the substance of the Bread doth also remain.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Opinion. </seg>3</label> The third Opinion, which in my poor judgment is no more consistent with Christian Religion, then it is with Reason, is that the Body of Christ is in the Sacrament, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Humanity of Christ is without bounds or limits, and is every where, and in all places, where his Divinity is.</p>
+            <p>We must not admire, dear Brethren, to see so many different O<g ref="char:EOLhyphen"/>pinions
+<pb n="2" facs="tcp:172910:3"/> concerning the blessed Sacrament, for it is what St. <hi>Paul</hi> fore<g ref="char:EOLhyphen"/>told us in his first Epistle to the <hi>Corinth.</hi> 11. Chap. 19. vers. where speaking of the blessed Sacrament he says. <hi>There must be heresies, that they which are approved among you,</hi> might be known.</p>
+            <p>The fourth Opinion, which I shall mention, and which is truly grounded upon Scripture,<note place="margin">
+                  <hi>4</hi> Opinion, and true Do<g ref="char:EOLhyphen"/>ctrine of Christ.</note> is, that in the Supper of the Lord the Body and Blood of Christ are given and taken, and eaten only, after an heavenly and spiri<g ref="char:EOLhyphen"/>tual manner, and the means whereby the Body of Christ is receiv<g ref="char:EOLhyphen"/>ed, and eaten in the Supper, is Faith.</p>
+            <p>According to this Doctrine we believe the Body of Christ to be in the Sacrament, but spiritually. We believe that we receive the Body of Christ, but by Faith.</p>
+            <p>So that we may call the blessed Sacrament, as the Apostle does, <hi>a Remembrance</hi> or Representation of the Body of Christ, for in being such a Representation or sign doth consist the nature of a Sacrament.</p>
+            <p>I now, with the help of God, shall proceed to prove the truth of this Doctrine, and therefore that I may observe a clear Method to prove it, I shall lay down this Argument as a general principle.</p>
+            <p>The Doctrine that is most conform to the Word of God, to the soundest part of all the Fathers of the primitive Church,<note place="margin">The general principle and subject of this Dis<g ref="char:EOLhyphen"/>course.</note> and to Sense and Reason is the true Doctrine of Christ. But the Protestant Doctrine, that I now ex<g ref="char:EOLhyphen"/>plained, is the only Doctrine, in this Controversie, that is conform to the Word of God, to the soundest part of all the Fa<g ref="char:EOLhyphen"/>thers of the primitive Church, and to Sense and Reason. There<g ref="char:EOLhyphen"/>fore the Protestant Doctrine is in this Controversie the only true Doctrine of Christ.</p>
+            <p>The first Proposition, That the Doctrine, that is most conform to the Word of God, to the Fathers of the primitive Church, and to Sense and Reason, is the true Doctrine of Christ, is unde<g ref="char:EOLhyphen"/>niable to any Man of sense.</p>
+            <p>As for the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cond, That the Protestant Doctrine is in this Contro<g ref="char:EOLhyphen"/>versie the only Doctrine, that is conform to the Word of God, to the soundest part of all the Fathers of the primitive Church, and to Sense and Reason, our Adversar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o deny.</p>
+            <pb n="3" facs="tcp:172910:3"/>
+            <p>I shall first prove it by the Word of God, that hereby Dear Chri<g ref="char:EOLhyphen"/>stians, we may become stedfast and firm in our Faith and Be<g ref="char:EOLhyphen"/>lief, and this shall be the first part of my Discourse.</p>
+            <p>I shall secondly prove it by the Authority of the soundest part of all the Fathers of the primitive Church, I mean of the 1, 2, 3, 4. and 5th Century of the Church, that their Example may lead us, to dispose our selves often, to receive this blessed Sa<g ref="char:EOLhyphen"/>crament with thanksgiving, and this shall be the second part of my Discourse.</p>
+            <p>In the third place, I shall prove it by Sense and Reason, and here<g ref="char:EOLhyphen"/>by you shall plainly understand, what Impossibilities and gross Contradictions, the Doctrine of our Adversaries doth force Christians to believe as Articles of Faith; and this shall be the third and last part of my Discourse, and the subject of your fa<g ref="char:EOLhyphen"/>vourable attentions.</p>
+            <div n="1" type="part">
+               <head>The First Part.</head>
+               <p>THE First Part which I have proposed, is to prove by the Word of God, that the Protestant Doctrine concerning the blessed Sacrament of the Lords Supper, is the Doctrine of Christ.</p>
+               <p>But before we come to the Proof of this Part, let us well understand in what our Adversaries and we do differ concerning the blessed Sacrament. They say that these Words,<note place="margin">In what our Adversaries and we do differ con<g ref="char:EOLhyphen"/>cerning the blessed Sacra<g ref="char:EOLhyphen"/>ments.</note>
+                  <hi>This is my Body, and this is my Blood,</hi> are to be understood in a litteral sense, and are practical Words, (as they call them,) that is to say, that they produce what they signifie, and therefore they say, that the substance of the Bread and Wine, by these Words, is changed into the substance of the Body and Blood of Christ.</p>
+               <p>We say, that these Words, <hi>This is my Body, and this is my Blood,</hi> are to be understood in a figurative and spiritual sense, as those o<g ref="char:EOLhyphen"/>ther Words of our Saviour, <hi>I am the true Vine, I am th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Door and the Light.</hi> At the utmost, the Words of Institution pronounc'd, are no more practical than in order to spiritual Effects. The Elements hereby are made the Sacrament, and a means to convey the Benefits
+<pb n="4" facs="tcp:172910:4"/> of Christ's Death and Passion to those who receive with Faith. And therefore we profess, that the Body of Christ is in the Sacrament, but spiritually, and that we truly receive the Body and Blood of Christ in the Sacrament by Faith.</p>
+               <p>And that this was the meaning, and mind, and intent of Christ, and the true sense of the Words, I prove first by the Words of my Text.</p>
+               <p>If these Words, <hi>This is my Body,</hi> &amp;c. be not understood in a figurative and spiritual sense,<note place="margin">First Proof.</note> the Holy Ghost, has in<g ref="char:EOLhyphen"/>spired a manifest Contradiction. But the Holy Ghost, the Spi<g ref="char:EOLhyphen"/>rit of Truth, cannot inspire a manifest Contradiction; therefore these Words, <hi>This is my Body,</hi> &amp;c. must not or cannot be understood in a litteral sense, and therefore must be understood in a figurative and spiritual sense.</p>
+               <p>To prove my first Proposition, which is, that if these Words, <hi>This is my Body,</hi> be not understood in a figurative and spiri<g ref="char:EOLhyphen"/>tual sense, the Holy Ghost has inspired a manifest Contradiction; and to make this Argument clear, let us repeat the part of my Text wherein the difficulty lyes, <hi>This is my Body,</hi> And <hi>do this in Remem<g ref="char:EOLhyphen"/>brance of me.</hi>
+               </p>
+               <p>But if the blessed Sacrament be the real Body of Christ, (as our Adversaries do say it is,) it is a manifest Contradiction to say that it should be a Remembrance or Representation. The rea<g ref="char:EOLhyphen"/>son of this is clear, because nothing can be <hi>the Remembrance</hi> or Re<g ref="char:EOLhyphen"/>presentation of it self, and therefore if the Body of Christ be in the Sacrament, (as our Adversaries do say it is,) the Apostle has writ<g ref="char:EOLhyphen"/>ten a manifest Contradiction, when he calleth the Sacrament a Re<g ref="char:EOLhyphen"/>membrance or Representation: and consequently either these Words, <hi>This is my Body,</hi> must be understood in a figurative and spiritual sense, or the Holy Ghost has inspired a manifest Contradiction.</p>
+               <p>This you may well understand by this familiar Example, you cannot say in good reason, the person of the King is a true Remem<g ref="char:EOLhyphen"/>brance or Representation of it self: But you can say in good rea<g ref="char:EOLhyphen"/>son, this Im<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge, or this Picture is a true Remembrance or Represen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation of the King. The reason is this, because by the principles of true Philosophy and Reason, nothing can represe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t it self; for what is Represented, and the Representation must be two different things, as the King and the Image or Picture of the King.</p>
+               <pb n="5" facs="tcp:172910:4"/>
+               <p>So in like manner, if the Sacrament be a Remembrance or Repre<g ref="char:EOLhyphen"/>sentation of the Body of Christ, (as our Adversaries must own,) it cannot be the real Body of Christ; for then the Body of Christ should be a Representation and Remembrance of it self, which (as I proved) is a manifest Contradiction. Therefore these Words, <hi>This is my Body,</hi> &amp;c. must be understood in a figurative and spiritual sense, and consequently, this is the Doctrine that is conform to the Word of God, and therefore the Doctrine of Christ, which I had to prove.</p>
+               <p>My second Proof of the Truth of this Doctrine,<note place="margin">2 <hi>Proof.</hi>
+                  </note> I shall take out of the very Words of the Institution of the blessed Sacrament, <hi>This is my Body,</hi> &amp;c.</p>
+               <p>For if the Doctrine of our Adversaries be true, and that by these Words the Substance of the Bread be changed into the Substance of our Lords Body, the Holy Ghost must have told an Untruth, so that when I prove that their Doctrine makes the Holy Ghost tell an Un<g ref="char:EOLhyphen"/>truth, you shall plainly understand, that their Doctrine is false, and contrary to our Saviours Institution.</p>
+               <p>To demonstrate, that their Doctrine makes the Holy Ghost tell an Untruth, I argue thus:</p>
+               <p>He that tells us, that what is not Bread, is Bread, plainly tells us an Untruth. But the Holy Ghost by St. <hi>Paul</hi> plainly tells us that what is not Bread, is Bread, if their Doctrine be true. And therefore their Doctrine makes our Saviour tell an Untruth.</p>
+               <p>As for the first Proposition, that he that tells us, that what is not Bread, is Bread, tells us an Untruth, it cannot be denyed; for to say that a thing is, when it is not, is plainly to tell an Untruth.</p>
+               <p>As for the second Proposition; But the Holy Ghost by St. <hi>Paul</hi> tells us that what is not Bread, is Bread, if their Doctrine be true, I prove plainly thus.</p>
+               <p>For our Adversaries do say, and confidently affirm that after the Words, <hi>This is my Body,</hi> are pronounced,<note place="margin">According to the Doctrine of our Adversaries, it is fals<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to call the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bread after the W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rds, <hi>This is my Body.</hi>
+                  </note> the Sacrament is no more Bread, but the true and Real Body of Christ, therefore according to their Doctrine, it is an Untruth to call the Sacrament Bread or Wine af<g ref="char:EOLhyphen"/>ter these Words, <hi>This is my Body,</hi> &amp;c. But after the Words, <hi>This is my Body,</hi> &amp;c. the Holy Ghost calls the Sacrament
+<pb n="6" facs="tcp:172910:5"/> Bread and Wine; and therefore either their Doctrine must be false, or the Holy Ghost must tell an Untruth, but the Holy Ghost cannot tell an untruth, and therefore what is to be concluded is, that their Doctrine is false, and contrary to our Saviours Institution.</p>
+               <p>Now to finish this second Argument, and to shew you clearly the falshood of their Doctrine, and how far it is from the Doctrine and Institution of Christ. I shall prove that the holy Scripture calls the blessed Sacrament Bread and Wine, even after the pronouncing these Words, <hi>This is my Body,</hi> and <hi>this is my Blood.</hi>
+               </p>
+               <p>In the first place out of the first Epistle of St. <hi>Paul</hi> to the <hi>Corinth.</hi> 11. Chap. 26, 27. and 28. Verses,<note place="margin">The Holy Ghost calls the Sacra<g ref="char:EOLhyphen"/>ment. Bread af<g ref="char:EOLhyphen"/>ter the Words <hi>This is my Bo<g ref="char:EOLhyphen"/>dy.</hi>
+                  </note> where the Apostle expounds the mind of Christ, vers. the 26. <hi>As often as you eat of this Bread,</hi> vers. the 27. <hi>Whosoe<g ref="char:EOLhyphen"/>ver shall eat of this Bread,</hi> and vers. the 28. <hi>And so let him eat of this Bread.</hi>
+               </p>
+               <p>All this is said after the Words of the Institution, <hi>This is my Body;</hi> and therefore the Holy Ghost calls the Sacrament Bread, after the Words of the Institution, and consequently the Doctrine of our Ad<g ref="char:EOLhyphen"/>versaries, which will not allow, that the Sacrament can be truly called Bread after these Words of our Saviour, <hi>This is my Body,</hi> is contrary to the Doctrine and Institution of Christ.</p>
+               <p>Secondly it is evident in the holy Gospel according to St. <hi>Matthew,</hi>
+                  <note place="margin">Our Saviour do call the Sacra<g ref="char:EOLhyphen"/>ment Wine after the Words <hi>This is my Blood.</hi> Observe that the fourth Council of <hi>Or<g ref="char:EOLhyphen"/>leans</hi> in the 6th Century of the Church ordained in the 4th Can. That in the Offering of the holy Chalice, nothing shall be presented, except Wine only, unmixed with Water, because it is a Sacrilegious thing to transgress the holy Mandate and Institution of our Saviour Christ. But notwith<g ref="char:EOLhyphen"/>standing, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Canon this Sa<g ref="char:EOLhyphen"/>crilege and tr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ession of the In<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tution of our Saviour Christ is constant in the Church of Rome to this day, for they always mix the Wine wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Water,</note> that our Saviour himself, after he had ordained the blessed Sa<g ref="char:EOLhyphen"/>crament calls it Wine, Chap. 26. vers. 29. where we read these Words of our Saviour after the Institution of the blessed Sacrament; <hi>For I say unto you, that I will not drink henceforth of this fruit of the Vine, until that day, when I shall drink it new with you in my Fathers King<g ref="char:EOLhyphen"/>dom.</hi> But to call it the fruit of the Vine, or to call it Wine, is the same thing, therefore the Holy Ghost, after the Words, <hi>This is my Body, and this is my Blood,</hi> calls the Sacra<g ref="char:EOLhyphen"/>ment Bread and Wine, and therefore the Do<g ref="char:EOLhyphen"/>ctrine of our Adversaries, which denys it to
+<pb n="7" facs="tcp:172910:5"/> be so, is to be rejected as false, and as contrary to the Words of our Saviours Institution, which I had to prove.</p>
+               <p>My third Argument to prove the Truth of my Proposition shall be out of the 6th Chap. of the holy Gospel according to St. <hi>John.</hi>
+               </p>
+               <p>For our Adversaries finding no other place of the holy Scripture to favour their Cause, do plead (though to no purpose) this 6th Chap. of St. <hi>John,</hi> and they make it a principle (though but a pre<g ref="char:EOLhyphen"/>tended one,) and sure ground of their Doctrine.</p>
+               <p>But to shew you with clear Method upon what weak principles and grounds they establish their Doctrine.</p>
+               <p>I shall first prove, that in case we grant, as we do not, that this 6th Chapter of St. <hi>John</hi> is to be understood of the blessed Sacrament, it proves plainly our Doctrine.</p>
+               <p>Secondly I shall prove that their Arguments out of this Chapter are uncertain, and consequently of no importance.</p>
+               <p>In the third place I shall prove, that the Fathers, who in the pri<g ref="char:EOLhyphen"/>mitive Church expounded, this 6th Chapter of St. <hi>John,</hi> do under<g ref="char:EOLhyphen"/>stand it, as we do in a figurative and spiritual sense.</p>
+               <p>As for my first Proposition, which is, in case we grant, as we do not, that this Chapter is to be understood of the blessed Sacra<g ref="char:EOLhyphen"/>ment, it proves plainly our Doctrine; I prove thus.</p>
+               <p>If in this Chapter from the 51st to the 58. Verse (where there is mention of the blessed Sacrament as they say,<note place="margin">The sixth Chapter of St. <hi>John</hi> doth agree with our Doctrine, and proves it plainly.</note> but we do not grant,) there is not one Verse, but what doth agree with our Doctrine, or one Expression, but what must be understood in a spiritual sense, this Chap<g ref="char:EOLhyphen"/>ter proves plainly our Doctrine. But from the 51. to the 58. Verse, all this Chapter doth agree with our Doctrine, and all must be understood in a spiritual sense; therefore this Chapter proves plainly our Doctrine.</p>
+               <p>The first Proposition is evident, for if there be not one Verse, but what doth agree with our Doctrine, and but what must be under<g ref="char:EOLhyphen"/>stood spiritually; it is plain that it proves our Doctr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</p>
+               <p>As for the second Proposition, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the 51. to the 58. Verse, all this Chapter doth agree with our Doctrine, and all must be under<g ref="char:EOLhyphen"/>stood in a spiritual sense, our Adversaries do deny.</p>
+               <pb n="8" facs="tcp:172910:6"/>
+               <p>This Proposition has two parts, which must be separately proved.</p>
+               <p>The first part is, that all this Chapter doth agree with our Do<g ref="char:EOLhyphen"/>ctrine. The second that it must be understood in a spiritual sense.</p>
+               <p>I shall prove the first part by laying down before you, the very Text of this Chapter, and by shewing you the conformity of our Doctrine with the sense of every Verse, for thence it shall evidently appear that this Chapter doth agree with our Doctrine.</p>
+               <p>We read in the 51. Verse, <hi>I am that living Bread, which came down from Heaven,</hi>
+                  <note place="margin">Our Doctrine is conform to this Chapter.</note>
+                  <hi>if any Man eat of this Bread, he shall live for ever, and the Bread, that I will give, is my Flesh, which I will give for the life of the World.</hi> In this Verse I say, nor in the following Verses (for it is the same sense) is not one expression but what our Doctrine is conform to.</p>
+               <p>We own and profess that Christ came down from Heaven, when sent by his heavenly Father: but our Adversaries must own, that Christ, when he came down from Heaven, was no natural or earthly Bread. Therefore of necessity they must understand the begin<g ref="char:EOLhyphen"/>ning of this Verse,<note place="margin">Our Adversa<g ref="char:EOLhyphen"/>ries are forced to understand the beginning of the <hi>51.</hi> vers. in a spiritual sense.</note> in a spiritual sense; which is our Doct<g ref="char:EOLhyphen"/>rine. Let us now examine the second part of the Text, <hi>if any Man eat of this Bread he shall live for ever.</hi> This is our Doctrine, for we own, that if any Man, or rather eve<g ref="char:EOLhyphen"/>ry Man who truly and sincerely disposed eats, of this Bread with true faith, shall live for ever, and our Adversaries cannot deny, but that this is the true sense of this part of the Text, for they cannot deny, but the spiritual eating by Faith is the only means to obtain the benefit of this Sacrament, and everlasting life.</p>
+               <p>The third part is; <hi>And the Bread that I will give, is my Flesh,</hi> we own that it is the Flesh of Christ to all true Believers by Faith.</p>
+               <p>Lastly, <hi>which I will give for the life of the World,</hi> we own, that our Saviour gave his Body and Flesh, for the life of the World upon the Cross, and to us in the Sacrament by Faith in Remembrance of his own Death and Passion, that the Sacrament received with Faith, might be a sure means for the World, to apply unto themselves the Merits of our Saviour, and therefore our Doctrine in every part of it is conform to this Chapter.</p>
+               <pb n="9" facs="tcp:172910:6"/>
+               <p>Now I prove the second part of my Proposition, which is,<note place="margin">Proofe that this Verse as well as the rest of this Chapter is to be under<g ref="char:EOLhyphen"/>stood in a spiri<g ref="char:EOLhyphen"/>tual sense.</note> that this Text as well as the following Ver<g ref="char:EOLhyphen"/>ses of this Chapter are to be understood in a spiritual sense, by the Words of our Saviour in this Chapter, vers. 63. where our Saviour explains himself, and opens his mind to his Disciples, when they murmured, and were offended at his Speech, saying, <hi>It is the Spirit that quickeneth, and the Flesh profiteth nothing, the Words that I speak unto you, are spirit and life.</hi> By these Words our Saviour doth appease his Disciples, assuring them, that what he said in the fore<g ref="char:EOLhyphen"/>going Verses is to be understood in a spiritual sense, and that this was our Saviours meaning by these Words is plain, for the best Expositors of the primitive Church, who expound<g ref="char:EOLhyphen"/>ed this Chapter,<note place="margin">Origenes died Anno <hi>256.</hi>
+                  </note> do understand and expound it in a spiritual sense. <hi>Origenes</hi> that famous Expositor of Scripture, who lived and writ in the beginning of the Third Century of the Church, sayes no less, <q>then that it is eternal death for any Man to unders<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>and this Chapter in its literal sense, these are his Words and Doctrine in his 7th Homilie or exposition of <hi>Leviticus,</hi> where after he affirmed that the Flesh of Christ is the Word of God, he adds this exposition of this 6th Chapter of St. <hi>John.</hi>
+                  </q>
+                  <hi>Si enim secundum li<g ref="char:EOLhyphen"/>teram sequaris hoc, q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d dictum est, nisi manducaveritis carnem filii ho<g ref="char:EOLhyphen"/>minis, &amp; biberitis ejus <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anguinem, occidit hoec litera.</hi>
+                  <q>That is to say; for if you believe in a literal sense, what it is said, except you eat the Flesh of the Son of Man, and drink his Blood, that lite<g ref="char:EOLhyphen"/>ral sense kills.</q> The Consequence, therefore is clear, that this Chap<g ref="char:EOLhyphen"/>ter is to be understood in a figurative and spiritual sense, which is what I had to prove in the second part of my First Proposition.</p>
+               <p>The second Proposition that I have to prove is,<note place="margin">The Arguments of our Ad<g ref="char:EOLhyphen"/>versaries out of the 6th Ch, of St. <hi>John</hi> are uncertain.</note> that their Arguments out of this Chapter are uncertain, and therefore of no importance.</p>
+               <p>The Proof of this Proposition is plain by this only Argument.</p>
+               <p>Their Arguments out of this Chapter are uncertain and consequently of no impor<g ref="char:EOLhyphen"/>tance,<note place="margin">They do not agree among them<g ref="char:EOLhyphen"/>selves whethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Chap. of St. <hi>John</hi> is to be un<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>stood of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Sacrament, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch is sufficient to shew the uncertainty of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Argu<g ref="char:EOLhyphen"/>ments.</note> if all our Doctors and many of their own best Doctors affirm that this Chapter
+<pb n="10" facs="tcp:172910:7"/> is by no means to be understood of the blessed Sacrament. But our Doctors in general, and many of their own best Doctors affirm, that this Chapter is not to be understood of the blessed Sacrament. Therefore their Arguments out of this Chapter are uncertain, and consequently of no importance.</p>
+               <p>There is not one Word of this Argument, that can be reasonably denyed.</p>
+               <p>
+                  <note place="margin">The 6th Chap. of St. <hi>John</hi> is not to be understood of the blessed Sacrament.</note>For we deny that this Chapter is to be understood of the blessed Sacrament.</p>
+               <p>First, because the Sacrament of the Lords Supper was ordained by Christ the Night before he suffered. But the Speech contained in this Chapter, Christ made to his Disciples a full Year before his Passion, as our Adversaries do confess; Therefore this Chapter is not to be understood of the blessed Sacrament.</p>
+               <p>Secondly we do not read in this Chapter the Words of the Insti<g ref="char:EOLhyphen"/>tution of the blessed Sacrament; for in this Chapter we read only a Relation of eating heavenly Bread that giveth life. But such a Re<g ref="char:EOLhyphen"/>lation is nothing to the Institution of a Sacrament. And therefore this Chapter is not to be understood of the blessed Sacrament.</p>
+               <p>Thirdly it is evident that the manner of eating heavenly Bread that giveth life, as we read in this Chapter, is the spiritual eating of it by Faith, as our Adversaries must own. And therefore this Chapter cannot be understood of the blessed Sacrament, and much less in the sense that our Adversaries do pretend.</p>
+               <p>Now I prove the second part of my Proposition, that many of their own best Doctors affirm,<note place="margin">Many of their best Doctors do affirm, that the 6th Chap. of St. <hi>John</hi> is not to be understood of the Sacrament,</note> that this Chap<g ref="char:EOLhyphen"/>ter is not to be understood of the blessed Sacrament, and consequently that their Arguments are uncertain, and therefore of no importance. <hi>Gabriel</hi> one of their chief Doctors in his 84th Lesson proves, that in this 6th Chapter of St. <hi>John,</hi> is not one Word of the blessed Sacrament. <hi>Cusanus</hi> one of their most learned Doctors in his 7th Epistle to the Bohemians is of the same Opinion. <hi>Cajetan</hi> who was one of their best Divines, doth plainly prove the same Doctrine in the 3d part of his Divinity Works 80th quest. and last Article. <hi>Taperus</hi> an Emi<g ref="char:EOLhyphen"/>nent Doctor among them in his Exposition of the 15th Article of the
+<pb n="11" facs="tcp:172910:7"/> Doctrine of <hi>Lovaine.</hi> And <hi>Jansenius</hi> that famous Bishop of <hi>Ipers,</hi> in the 15th Chapter of his Concord, doth plainly prove this Doctrine. And therefore the Arguments of our Adversaries out of this 6th Chapter of St. <hi>John</hi> are uncertain, and consequently of no impor<g ref="char:EOLhyphen"/>tance, which I had to prove.</p>
+               <p>My third and last Proposition, which is that the Fathers of the primitive Church, who expounded this 6th Chapter of St. <hi>John</hi> do understand it as we do, in a figurative and spiritual sense, is already proved by the testimony of <hi>Origenes,</hi> and it shall plainly appear by the second Part of my Discourse, where I am to prove, that the Pro<g ref="char:EOLhyphen"/>testant Doctrine is the only Doctrine that is conform to the Fathers of the primitive Church.</p>
+               <p>Dear Christians, the advantage and profit I proposed my self by laying down before you the Proofs of the Doctrine of Christ, out of his own holy Word, is, that we may become more and more sted<g ref="char:EOLhyphen"/>fast and firm in our Faith and Belief, and that we should not be lead or seduced by any false Doctrine, human inventions, or trivial subtilties; And so I finish this first part of my Discourse with that comfortable Advice of St. <hi>Paul</hi> to the Coloss. 2. Chap. 6. and 7. Verses. <hi>As ye have received Christ Jesus the Lord, so walk ye in him, rooted and built up in him, and stablished in the Faith, as ye have been taught, abounding therein with Thanksgiving.</hi>
+               </p>
+               <p>Now let us come to the second Proof of this Doctrine, wherein I am to prove the Protestant Doctrine to be the true Doctrine of Christ, by the Authority of the Fathers of the primitive Church, which is the second Part of this Discourse.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <p>THough it is needless after the holy Scripture to appeal to any other Authority to prove the Truth of our Doctrine, yet be<g ref="char:EOLhyphen"/>cause our Adversaries with Ostentation and great Confidence do endeavour to perswade, or rather to seduce Christians to believe, that their Doctrine was the Doctrine of the primitive Church; I shall therefore with the help of God, prove that the soundest Part of all the Fathers of the primitive Church, I mean of the 1, 2, 3, 4. and 5th Century of the Church held, taught and writ our Doctrine in plain Terms.</p>
+               <pb n="12" facs="tcp:172910:8"/>
+               <p>To prove this second Part of my Proposition, and to understand the Mind and Doctrine of the Fathers of the primitive Church, this following Argument shall serve as a general Principle, which when I prove, it shall plainly appear, that our Doctrine is the only Do<g ref="char:EOLhyphen"/>ctrine, that is conform to the Fathers of the primitive Church.</p>
+               <p>If the soundest Part of all the Fathers of the primi<g ref="char:EOLhyphen"/>tive Church do call the Sacrament Bread,<note place="margin">A Principle to understand how the Fathers of the primitive Church called and believed the Sacrament.</note> sometimes a Remembrance or Representation, sometimes the figure of the Body of Christ. And if they affirm, that the A<g ref="char:EOLhyphen"/>postles had not received or eaten the Body of Christ, which they had seen, or drank his Blood which was spilt, but spiritually and by Faith, our Doctrine is the only Do<g ref="char:EOLhyphen"/>ctrine, that is conform to the Fathers of the primitive Church.</p>
+               <p>But the soundest part of all the Fathers of the Primitive Church, do call the Sacrament Bread, sometimes a remembrance, Representati<g ref="char:EOLhyphen"/>on or Figure of the Body of Christ; and they affirm that the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>postles did not eat the Body of Christ which they had seen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk his Blood which was spilt, but Spiritually and by Faith. Therefore our Doctrine is the only Doctrine that is conform, to the Fathers of the Primitive Church.</p>
+               <p>The First Proposition of this Argument is evident, and I prove the First Part of the Second, the Fathers of the Primitive Church do call the Sacrament Bread.</p>
+               <p>
+                  <hi>Ignatius</hi> who lived in the time of the Apostles, and Writ in the First Century of the Church,<note place="margin">The First Cen<g ref="char:EOLhyphen"/>tury <hi>Ignatius</hi> suffered an. <hi>110.</hi>
+                  </note> in his Epistle to the <hi>Philadelphians,</hi> proves plainly the First Part of my Proposition, and our Doctrine by these words.</p>
+               <p>
+                  <hi>Rogo vos ut instetis uni Fidei, uni Praedicationi, una Eucharistiâ utentes,</hi>
+                  <note place="margin">
+                     <hi>Ignatius</hi> calls the Sacrament only bread.</note>
+                  <hi>una est caro Domini Jesu, &amp; unus San<g ref="char:EOLhyphen"/>guis, qui pro nobis effusus est; unus etiam panis pro omnibus confractius, &amp; unus calix totius Ecclesiae.</hi> That is to say.</p>
+               <p>
+                  <q>I pray you stand to one Faith, and to one Gospel, and make use of one Sacrament, there is but one Flesh of the Lord Jesus, and one Blood which is spilled for us: In like manner there is but one Bread broken for us all, and one Cup of the whole Church.</q>
+               </p>
+               <p>This passage is an evident Proof, of the First Part of my Propo<g ref="char:EOLhyphen"/>sition, that the Fathers of the Primitive Chuch, do call the Sacra<g ref="char:EOLhyphen"/>ment
+<pb n="13" facs="tcp:172910:8"/> Bread, and not this only, but <hi>Ignatius</hi> in this passage doth distinguish the Flesh from the Bread, and the Blood from the Cup, to shew us plainly that in the Sacrament, is only Bread and Wine, and he makes use of these words, Bread and broken for us, to prove that it is Bread that we break.</p>
+               <p>Our Adversaries do take great pains to answer this Doctrine by Sophistical distinctions never known to <hi>Ignatius,</hi> as may appear to any man of Sense, by the only Reading of his Works.</p>
+               <p>Now that I have proved the First Part of my Proposition, that the Sacrament in the First Century of the Church, was called and be<g ref="char:EOLhyphen"/>lieved Bread; I prove the Second Part, that it was called and believed a Representation of the Body of Christ.</p>
+               <p>
+                  <hi>Tertullian</hi> who Lived and Writ in the Second Centu<g ref="char:EOLhyphen"/>ry of the Church, and an Eminent Doctor,<note place="margin">2. <hi>Century</hi> Tertulian <hi>flou<g ref="char:EOLhyphen"/>rished An.</hi> 210.</note> in his First Book against <hi>Marcion</hi> the Heretick, doth plainly prove this Second Part of my Proposition, by these words.<note place="margin">In his First Book against <hi>Marcion,</hi> a lit<g ref="char:EOLhyphen"/>tle before the middle of the Book.</note>
+                  <hi>Usque nunc nec aquam reprobavit Creatoris, quâ suos abluit.—Nec Panem in quo ipsum Corpus suum representat.</hi> That is to say, neither has he [<hi>viz.</hi> Christ] to this time rejected or disdained Water, wherewith he washeth his own, (speaking of Baptism) not Bread whereby he representeth his own Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, speaking of the Sacrament.</p>
+               <p>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is antient Father, could not explain our Doctrine in more plain <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orms; for he doth not say, the Bread which is his true and real Bo<g ref="char:EOLhyphen"/>dy, but the Bread whereby he representeth his Body, which is our Doctrine, and what I ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to prove in the Second Part of my Pro<g ref="char:EOLhyphen"/>position.</p>
+               <p>And in his Third Book against the same Heretick.<note place="margin">In his Third Book against <hi>Marcion.</hi>
+                  </note>
+                  <hi>Hoc lignum &amp; Jeremias tibi insinuat victuris praedicans Ju<g ref="char:EOLhyphen"/>doeis venite mittamus lignum in panem ejus, utique in cor<g ref="char:EOLhyphen"/>pus sic enim Deus in Evangelio quoque vestro revelavit, panum corpus suum appelians, ut &amp; hinc jam cum intelligas corporis sui figuram de<g ref="char:EOLhyphen"/>disse, cujus retro corpus in panem Prophetes figuravit.</hi> That is to say</p>
+               <p>
+                  <q>The Prophet <hi>Jeremiah</hi> has plainly described this Wood, fore telling the Jews, what their Posterity should say, Come let u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thrust Wood into his Bread, even into his Body; for so has GO<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="14" facs="tcp:172910:9"/> Revealed (<hi>i. e.</hi> Interpreted) it in your Gospel, calling Bread his Body, that you might hence understand that he gave the figure of his Body, whose Body the Prophet figuratively exprest by Bread.</q> Observe the last words of this Doctrine, and how this antient Father explains his Faith and Belief, concerning the blessed Scrament; he doth not say that Christ gave his own true and real Body, and Bo<g ref="char:EOLhyphen"/>dily Flesh, (as our Adversaries do confidently say) but on the con<g ref="char:EOLhyphen"/>trary he says, that Christ calls the Bread his Body; and immediate<g ref="char:EOLhyphen"/>ly he expounds the mind of Christ thus, that we might understand it, not to be his Body, but the figure or representation of his Body, which is plainly our Doctrine.</p>
+               <p>
+                  <note place="margin">In his Fourth Book against <hi>Marcion.</hi>
+                  </note>And yet again in his Fourth Book, written against the same Heretick, he proves our Doctrine so clear by his ex<g ref="char:EOLhyphen"/>position of the words of the Institution of the blessed Sa<g ref="char:EOLhyphen"/>crament, <hi>this is my Body,</hi> that the meer reading his words may suffice fully to convince and pe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wade any Man not prepossessed that our Doctrine is the Doctrine of the Primitive Church; these are his Words and Doctrine, and what was then believed in the Church of GOD. <hi>Acceptum Panem &amp; distributum Discipulis Corpus suum illum effecit, hoc est Corpus meum, dicendo, id est Figura Corporis mei, Figura autum non fuisset, nisi veritatis esset Corpus.</hi> That is to say.</p>
+               <p>
+                  <q>The Bread that he had taken, (speaking of our Saviour,) and divided among his Disciples he made his own Body, by saying, this is my Body, that is to say, the Figure of my Bo<g ref="char:EOLhyphen"/>dy, for it had not been a true Figure, unless there were a true Body.</q>
+               </p>
+               <p>Observe that this Heretick <hi>Marcion,</hi> denyed the veritie of Christs humane Nature, and the veritie of his sufferings; whereupon of ne<g ref="char:EOLhyphen"/>cessity followeth this conclusion, that we are not saved indeed, but only (to use <hi>Marcions</hi> own words) <hi>Purative,</hi> that is, in Fancy or Supposition, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Tertulian</hi> proves against <hi>Marcion,</hi> that Christ had a true and real Body, because the Sacrament is a true Figure of that Body.</note>
+                  <hi>Tertulian</hi> to confute this Heresie, and to prove that Christ had a true Body, and that he truly suffered Death for our Redemption, assumes the Sacrament as a sure ground and reason, saying, that <hi>Christ made the Bread a true Figure of his Body;</hi>
+                  <pb n="15" facs="tcp:172910:9"/> but the Sacrament could not be a true Figure, unless Christ had a true Body, and therefore he concludes against this Heretick, that Christ had a true Body, for that the Sacrament is a true Figure of that Body. Observe that this was a prevailing and convincing Argu<g ref="char:EOLhyphen"/>ment against <hi>Marcion,</hi> because he received the Gospel.</p>
+               <p>This doubtless was a favourable, nay, and necessary occasion for this antient Father, and the rest who after him writ against this He<g ref="char:EOLhyphen"/>resie, to prove the Sacrament to be the real and carnal Body of Christ, if they had thought or believed it to be so; but far from any such Doctrine, <hi>Tertulian</hi> expounds these words, <hi>this is my Bo<g ref="char:EOLhyphen"/>dy,</hi> in a figurative sense, giving the sense thus, <hi>that is to say, the Fi<g ref="char:EOLhyphen"/>gure of my Body,</hi> and concluding therefore against <hi>Marcion,</hi> that Christ had a true Body, because the Sacrament is a true Figure of his Body.</p>
+               <p>This is more than sufficient for any man, who without partiality or prevention, shall weigh and esteem the Doctrine of this antient Father, to discern and understand what was the Faith and Belief of the Primitive Christians concerning the blessed Sacrament.</p>
+               <p>If time did permit me, I could bring down many more proofs of this Doctrine, out of the Writings of other Fathers of the Second Century of the Church, but that I might not be tedious, I shall prove now, that our Doctrine is conform to what was Taught and Believed by the Fathers of the Third Century<note place="margin">Third Century.</note> of the Church.</p>
+               <p>Though I have already, in the First Part of this Discourse, quoted the Doctrine of <hi>Origenes,</hi> yet I thought fit to repeat it here in its due place; for that the Answer of our Adversaries to this Doctrine, will furnish us with a convincing Argument against their Doctrine of Transubstantiation.</p>
+               <p>
+                  <hi>Origenes</hi> in his 7th Homily<note place="margin">
+                     <hi>Origenes</hi> in his Seventh Hom.</note> or Exposition of <hi>Leviticus,</hi> after he had affirmed that the Flesh of Christ, is the Word of GOD, adds this exposition of the 6th Chap. of S. <hi>John.</hi>
+               </p>
+               <p>
+                  <hi>Si enim secundum literam sequaris hoc, quod dictum est, nisi mandu<g ref="char:EOLhyphen"/>caveritis Carnem Filij Hominis, &amp; biberitis ejus Sanguinem, occidit hac litera.</hi> That is to say,</p>
+               <p>For if you believe in a litteral sense what is said, <hi>Except you eat the Flesh of the Son of Man, and drink his Blood, that litteral sense kills or destroys.</hi> The Consequence therefore is clear, that we must un<g ref="char:EOLhyphen"/>derstand
+<pb n="16" facs="tcp:172910:10"/> these verses of the Sixth Chapter of St. <hi>John,</hi> in a Figu<g ref="char:EOLhyphen"/>rative and Spiritual Sense, if we are willing to have Life in us. But this is plainly our Doctrine and Belief, and therefore the Doctrine of our Adversaries, is contrary to the Doctrine of this antient Fa<g ref="char:EOLhyphen"/>ther, and to the Primitive Church.</p>
+               <p>Our Adversaries (though to no purpose) do devise and invent many Answers to this Doctrine of <hi>Origenes,</hi> and because they dare not openly deny the Doctrine of this great Doctor, they answer, that this passage proves indeed, that the Sixth Chap. of St. <hi>John,</hi>
+                  <note place="margin">Our Adver<g ref="char:EOLhyphen"/>saries are forced to abandon the Sixth Chap. of St. <hi>John,</hi> and therefore hve no proof in Scripture for Transubstantia<g ref="char:EOLhyphen"/>tion.</note> is not to be understood of the blessed Sacra<g ref="char:EOLhyphen"/>ment.</p>
+               <p>But by this Answer, they unawares give the Sword out of their own hands, for since they own, as they are forced to do by this Doctrine of <hi>Origenes,</hi> that this Chap<g ref="char:EOLhyphen"/>ter is to be understood in a spiritual sense, as we under<g ref="char:EOLhyphen"/>stand it, and that it is not to be understood of the bles<g ref="char:EOLhyphen"/>sed Sacrament, they have no Proof in Scripture for the Doctrine of Transubstantiation: and as it now appeareth, it was never known to the Fathers of the primitive Church, and therefore is to be reje<g ref="char:EOLhyphen"/>cted as false.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Sanctus Cypria<g ref="char:EOLhyphen"/>nus,</hi> Bishop of Car<g ref="char:EOLhyphen"/>thage, suffered Martyrdome un<g ref="char:EOLhyphen"/>der Valerianus Anno <hi>261.</hi>
+                  </note>We find among the Works of <hi>Sanctus Cyprianus</hi> a Sermon of the Supper of the Lord, preached by another Author, but recorded and kept in the Books of this an<g ref="char:EOLhyphen"/>cient Father, wherein we read these Words: <hi>Haec quoties agimus, non dentes ad mordendum acuimus, sed fide sincerâ panem sanctum frangimus.</hi> That is to say: <q>As often as we do these things, (that is, receive the Body and Blood of Christ,) we prepare not our Teeth to bite or chaw, but we break this holy Bread by the sincerity of Faith.</q>
+               </p>
+               <p>Consider that this Doctrine contradicts and destroys the carnal eating of the Sacrament, by these Words; As often as we do these things, we must not prepare or whet our Teeth for chawing; And proves plainly, that we are partakers of this holy Bread, only by Faith, by these last Words: <hi>But we break this holy Bread</hi> by sincerity of Faith, which is plainly our Doctrine. Now let us come to the fourth Century of the Church.<note place="margin">Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4th Century.</note>
+               </p>
+               <pb n="17" facs="tcp:172910:10"/>
+               <p>Saint <hi>Ambrose</hi> that great Doctor who Con<g ref="char:EOLhyphen"/>verted St. <hi>Austin</hi> in his Book of disposing Ca<g ref="char:EOLhyphen"/>techumens or Proselites to the Mysteries of our Faith,<note place="margin">
+                     <hi>Ambrosius</hi> Bishop of <hi>Mil<g ref="char:EOLhyphen"/>lane</hi> after many troubles suf<g ref="char:EOLhyphen"/>fered for <hi>22</hi> Years, that he Governed the Church of <hi>Mil<g ref="char:EOLhyphen"/>lane,</hi> and many good Books Writen against the Heretick of his time. Dyed <hi>Anno 397.</hi>
+                  </note> the Ninth Chapter sets down his mind concerning the blessed Sacrament, in these words.</p>
+               <p>
+                  <hi>Ante benedictionem Verborum Coelestium una species nominatur, post Consecrationem Corpus Christi significatur.</hi> That is to say,</p>
+               <p>
+                  <q>Before the Benediction by the Heavenly Words, we call it another Species or Thing (speaking of the Bread) after the Consecration, the Body of Christ is thereby signified.</q> By these words he proves plainly our Doctrine; for he do's not say that the Sacrament is the real Body of Christ after the Consecration; but he says plain<g ref="char:EOLhyphen"/>ly that it signifies or represents the Body of Christ.</p>
+               <p>And in his Fourth Book upon the Sacraments and Fourth Chap<g ref="char:EOLhyphen"/>ter he says, <hi>Nos bibere similitudinem pretiosi Sanguinis.</hi> That is to say, That we drink the similitude or representation of the precious Blood.</p>
+               <p>And in the same Book he calls the Oblation of the Altar, or of the LORD's Table, the Figure of the Body of Christ. It would be too tedious to quote here all passages of his to this purpose, for this he proves in the most part of this Book.</p>
+               <p>And in his Book of Christian Duties, the Fourty Eighth Chapter, speaking of the Blessed Sacrament, he proves that the true Body of Christ is in Heaven, and that we have upon Earth but its Image or Representation, He affirms, <hi>umbram fuisse in lege, Imaginem in Evangelio, veritatem in Coelestibus.</hi> That is to say, <q>That in the Law was the Shadow of the Body of Christ, in the Gospel the Image or Representation, and the truth in Heaven.</q> By this Doctrine he proves plainly that the true Body of Christ is in Hea<g ref="char:EOLhyphen"/>ven, and that we have upon Earth but its Image or Figure in the Sacrament, which is our Doctrine. And therefore you plainly now understand by the Writings of this great Doctor, and by what he taught, that our Doctrine is the Doctrine of the Primitive Church in his time.</p>
+               <p>I could quote here more proofs out of his Fourth Book upon the Sacraments, but that I may not be tedious, I shall come to the Fifth
+<pb n="18" facs="tcp:172910:11"/> Century of the Church, and prove that St. <hi>Chrysostom, Theodoretus,</hi> and St. <hi>Austin,</hi> never knew or Preached any Doctrine concerning the Blessed Sacrament but our Doctrine.</p>
+               <p>Saint <hi>Chrysostom</hi> in his Exposition of the Twenty Se<g ref="char:EOLhyphen"/>cond Psalm,<note place="margin">Saint <hi>Chry<g ref="char:EOLhyphen"/>sostom</hi> Bishop and Doctor. Died <hi>Anno. 407.</hi>
+                  </note>
+                  <hi>ut quotidie in similitudinem Corporis &amp; San<g ref="char:EOLhyphen"/>guinis Panem &amp; Vinum secundum ordinem</hi> Melchisedech <hi>nobis ostenderet in Sacramento.</hi> That is to say, That he might daily shew us Bread and Wine, after the manner of <hi>Melchisedech</hi> in representation of his own Body and Blood: this is our Doctrine plainly, for St. <hi>Chrysostom</hi> does not say, that he might shew us Bread and Wine, which are his own real Body and Blood, but the Representation or Likeness of his own Body and Blood.</p>
+               <p>To this Doctrine our Adversaries do Answer, that these Com<g ref="char:EOLhyphen"/>mentaries, and the Epistle of St. <hi>Chrysostom</hi> to <hi>Cesarius,</hi> and his Com<g ref="char:EOLhyphen"/>mentaries upon the Gospel of St. <hi>Matthew,</hi> are not the Works of St. <hi>Chrysostom:</hi> And this they say, because our Doctrine is plain in these Works. But whosoever is the Author of these Works, our Ad<g ref="char:EOLhyphen"/>versaries cannot deny, but that they are antient Works, and the Doctrine of that Age; and therefore may furnish a strong Proof, of the truth of our Doctrine. But however, since they will not allow, that these Works are the Works of St. <hi>Chrysostom,</hi> let us come to the Works of <hi>Theodoretus</hi> and St. <hi>Austin,</hi> which they cannot deny to be theirs.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Theodoretus</hi> Bishop of <hi>Cy<g ref="char:EOLhyphen"/>rus</hi> a Town in <hi>Syria,</hi> continued at least Thirty Years in his Ministry, and ended his Life, as is supposed, under the Reign of <hi>Leo</hi> the First. <hi>Anno. 450</hi> In the First of his learn<g ref="char:EOLhyphen"/>ed Dialogues, and Eighth Chap.</note>
+                  <hi>Theodoretus</hi> Bishop of <hi>Cyrus,</hi> who was no<g ref="char:EOLhyphen"/>thing inferiour to the most Wise, Accurate and Learned Writers of the antient time, in the First of his learned Dialogues proves that the <hi>Word became Flesh,</hi> (these are his words) <hi>with<g ref="char:EOLhyphen"/>out changing of the Divine Nature, into the Hu<g ref="char:EOLhyphen"/>mane Nature, or the Humane Nature into the Divine.</hi>
+                  <q>Even as in the Sacrament of the Supper of the LORD, the Bread becomes the Body of the LORD, not by changing the substance of it; but by assuming, by grace, another use than it had, the very Symbol obtaineth the name of the thing, represented by the Symbol.</q> When our Adversaries do read these Dialogues of <hi>Theodoretus,</hi> I do not know how they can, with as great confidence as they do, brag or boast of the Antiquity, of the Doctrine of Transubstantiation.</p>
+               <pb n="19" facs="tcp:172910:11"/>
+               <p>St. <hi>Austin</hi> in his Second Volum and Thir<g ref="char:EOLhyphen"/>teenth Epistle, says,<note place="margin">St. <hi>Austin</hi> after his return to <hi>Africk</hi> was Coadjutor to <hi>Va<g ref="char:EOLhyphen"/>lerius</hi> Bishop of <hi>Hippo,</hi> as <hi>Chry<g ref="char:EOLhyphen"/>sostom</hi> was to <hi>Flavianus</hi> in <hi>Antiochia;</hi> he succeeded <hi>Va<g ref="char:EOLhyphen"/>lerius</hi> in the Bishoprick of <hi>Hip<g ref="char:EOLhyphen"/>po.</hi> His great Travels in Preaching the Word of God. and stopping the Mouths of He<g ref="char:EOLhyphen"/>reticks, and Gain-sayers of the truth of GOD, especialy <hi>Do<g ref="char:EOLhyphen"/>natists, Pelagians</hi> and <hi>Mani<g ref="char:EOLhyphen"/>chean</hi> Hereticks, his learned Writings do testifie. He lived Seventy Six Years. The <hi>Van<g ref="char:EOLhyphen"/>dals</hi> took the Town of <hi>Hippo,</hi> which in the time of <hi>Austins</hi> Sickness they had Besieged. <hi>Anno. 436.</hi>
+                  </note>
+                  <hi>Si Sacramenta quandam similitudinem earum rerum, quarum Sacramenta sunt non haberent, omnino Sacramenta non essent ex hac autem similitudine plerumque etiam ipsa<g ref="char:EOLhyphen"/>rum rerum nomina accipiunt: sicut ergo secundum quendam modum Sacramentum Corporis Christi, Corpus Christi est, Sacramentum Sanguinis Christi Sanguis Christi est, ita Sacramentum Fidei, Fi<g ref="char:EOLhyphen"/>des est.</hi> That is to say,</p>
+               <p>
+                  <q>If the Sacraments had not some simili<g ref="char:EOLhyphen"/>tude or representation of the things, where<g ref="char:EOLhyphen"/>of they are Sacraments, they should in no manner be Sacraments, and by this simili<g ref="char:EOLhyphen"/>tude or representation they receive commonly the very name of the thing, that they represent. Therefore as the Sacrament of the Body of Christ in some manner, is the Body of Christ, and the Sacrament of the Blood of Christ, in some manner is the Blood of Christ, so the Sacrament of Faith, is Faith.</q>
+               </p>
+               <p>Observe First, that St. <hi>Austin</hi> by this Doctrine proves, that a Sacra<g ref="char:EOLhyphen"/>ment should not be a Sacrament, unless it representeth the thing, where<g ref="char:EOLhyphen"/>of it is a Sacrament. But his Doctrine is far from saying, that the Sacrament ought to be the thing it self, that it represents, as our Adversaries with confidence do say; so we say with St. <hi>Austin</hi> that the Bread is a Sacrament, because it represents the Body of Christ.</p>
+               <p>Observe Secondly that the reason why (according to St. <hi>Austins</hi> Doctrine) we commonly call the Sacrament the Body of Christ, is not that it is the real Body of Christ, but (as St. <hi>Austin</hi> says) because it represents the Body of Christ, and observe that this same reason <hi>Theodoretus</hi> giveth, as I have already mentioned.</p>
+               <p>Observe in the Third place what St. <hi>Austin</hi> says, that even as the Sacrament in some manner, is the Body and Blood of Christ, so the Sacrament of Faith (which is Baptism) is Faith. But Baptism, as every man of Sense knows, and as our Adversaries do allow, in a proper sense is not Faith, but the seal of Faith; in like manner, (according to St. <hi>Austin</hi>) the Sacrament in a proper sense, is not
+<pb n="20" facs="tcp:172910:12"/> the real Body of Christ, but the remembrance or representation of the Body of Christ.</p>
+               <p>And in his Book against <hi>Adimantus,</hi> the Twelfth Chapter, he opens his mind plainly concerning the Sacrament, in these words.</p>
+               <p>
+                  <hi>Non dubitavit Dominus dicere, hoc est Corpus meum, cum Figuram daret Corporis sui.</hi> That is to say,</p>
+               <p>
+                  <q>Our Saviour did not scruple to say, this is my Body, (note the exposition of these words according to St. <hi>Austin</hi>) When he gave the Figure of his Body.</q> By this Exposition and Doctrine it is plain to any man of Understanding, First that St. <hi>Austin</hi> under<g ref="char:EOLhyphen"/>stood these words, This is my Body, in a Figurative and Spiritual Sense, Secondly, that St. <hi>Austin</hi> believed and professed that our Sa<g ref="char:EOLhyphen"/>viour gave his Disciples only the Figure of his Body, and this Do<g ref="char:EOLhyphen"/>ctrine he confirms.</p>
+               <p>In his Exposition of the Third Psalm, by these words. <hi>Christus adhibuit</hi> Judam <hi>ad Convivium, in quo Corporis sui Figuram Discipulis commendavit.</hi> That is to say,</p>
+               <p>
+                  <q>Christ admitted <hi>Judas</hi> to the Banquet wherein he delivered to his Disciples the Figure of his Body.</q> By this Doctrine St. <hi>Austin</hi> proves plainly, that our Saviour did not give his own real Body, but the only Figure or Representation of his Body.</p>
+               <p>And in his Exposition of the Ninety Eighth Psalm, where he proves plainly, that the Apostles did not Eat the Flesh of Christ, or drank his Blood, but Spiritualy or by Faith, which is the proof of the last Part of my Proposition. In this place St. <hi>Austin</hi> speaks in the person of Christ.<note place="margin">The Proof of the last Parc of my Proposition.</note>
+                  <hi>Non hoc Corpus quod vi<g ref="char:EOLhyphen"/>detis manducaturi estis, &amp; bibituri illum Sanguinem, quem fusuri sunt, qui me Crucifigent. Sacramentum aliquod vobis commendo: Spiritualiter intellectum vivificabit vos.</hi> That is to say,</p>
+               <p>
+                  <q>You are not to eat this Body which you see, neither drink the Blood, which they that shall Crucifie me shall spill; but I commend unto you a Sacrament, which Spiritually believed, shall give you life.</q>
+               </p>
+               <p>I say again that it is an extream surprize and wonder to me, how our Adversaries can be so confident, as to brag of Antiquity, for their Doctrine of Transubstantiation, when they read these Works
+<pb n="21" facs="tcp:172910:12"/> of St. <hi>Austin.</hi> For if he had lived to this day, he could never speak in more plain and convincing Terms against Transubstantia<g ref="char:EOLhyphen"/>tion, than to say, that the Apostles did not eat the Body of Christ which they had seen, nor drank his Blood which was spilt, but in a Spiritual manner or by Faith: and that this Spiritual manner of eating, is the means to give them life; which Doctrine he confirms.</p>
+               <p>In his Twenty Fifth Tract, where he Expounds the Holy Gospel according to St. <hi>John,</hi> in these words. <hi>Utquid paras Dentes &amp; Ven<g ref="char:EOLhyphen"/>trem? crede &amp; manducasti.</hi> That is to say,</p>
+               <p>
+                  <q>Why do you prepare your Teeth and Belly? believe and you have eaten.</q> It is plain, that the means whereby we receive the Body and Blood of Christ, according to this Doctrine of St. <hi>Austin,</hi> is Faith, as it appeareth by these words, <hi>Believe and you have eaten.</hi>
+               </p>
+               <p>And yet in his Twenty Sixth Tract or Treatise, he again confirms the same Doctrine, saying, <hi>Credere in eum hoc est manducare Pa<g ref="char:EOLhyphen"/>nem Vivum.</hi> That is to say,</p>
+               <p>To believe in him, this is to eat the Living Bread. That is to say, we eat it only by Faith.</p>
+               <p>For the Application of all this Doctrine, observe First, that St. <hi>Austin</hi> as all the rest of the soundest part of the Fathers of the Primi<g ref="char:EOLhyphen"/>tive Church, do call the Sacrament (as I proved) Bread only, sometimes a Figure or Representation of the Body of Christ.</p>
+               <p>Secondly, that they deny, and in particular St. <hi>Austin,</hi> that the Apostles did eat the Body of Christ, or drank his Blood but Spi<g ref="char:EOLhyphen"/>ritualy, and that by this they overthrow and gainsay, the Carnal eat<g ref="char:EOLhyphen"/>ing of the Body of Christ, in the Sacrament.</p>
+               <p>Thirdly, they call the Sacrament Bread, and the Bread of Life.</p>
+               <p>Fourthly, that they say, that we eat it only by Faith, <hi>Crede &amp; manducasti.</hi> Believe and you have eaten.</p>
+               <p>But this is our Doctrine in every Part and Particle of it; and therefore our Doctrine is the only Doctrine,<note place="margin">Conclusion.</note> that in this case is conform and consonant to the soundest part of all the Fathers of the Primitive Church. And consequently the Do<g ref="char:EOLhyphen"/>ctrine of Christ, which is the Second Part of my Proposition, and what I had to prove.</p>
+               <p>Before I come to the Third and last Part of my Discourse, dear
+<pb n="22" facs="tcp:172910:13"/> Brethren let us seriously consider, that it is not sufficient for us, to know and to prove, that our Doctrine is the Doctrine of the Primi<g ref="char:EOLhyphen"/>tive Church, and consequently the Doctrine of Christ, (for the more we know, the more we have to answer for,) unless we pass from the Speculation to the practice of our Doctrine, and follow the exam<g ref="char:EOLhyphen"/>ples of those good Christians of the Primi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive Church in our Lives, as well as in our Doctrine; and dispose our selves often by Fast<g ref="char:EOLhyphen"/>ing and Praying, and especially by being in Charity with all the World, to receive this blessed Sacrament with Reverence, Acknow<g ref="char:EOLhyphen"/>ledging and Confessing our manifold Sins, and begging with an humble and contrite heart Pardon and Forgiveness of our Sins and Iniquities through the Merits of our Saviour and Redeemer Je<g ref="char:EOLhyphen"/>sus Christ. These are the dispositions that St. <hi>Ambrose</hi> and St. <hi>Austin</hi> had, and preached to the Christians of the primitive Church, and these are the Dispositions that we ought to have when we come with a sincere and upright Faith to receive this heavenly and spiri<g ref="char:EOLhyphen"/>tual nourishment of our Souls. Consider Dear Brethren, that when we come to the Lords Table, and eat of this heavenly Bread, with<g ref="char:EOLhyphen"/>out these Dispositions, and without Examining our selves, as St. <hi>Paul</hi> requireth in his first Epistle to the Corinth. 11. Chap. vers. 28. we are no less <hi>guilty of the Body and Blood of Christ,</hi> then the Jews who crucified Christ were, S. <hi>Paul</hi> proves this in the same Chapter, vers. 29. <hi>For he that eateth and drinketh unworthily, eateth and drin<g ref="char:EOLhyphen"/>keth his own damnation, because he discerneth not the Lords Body.</hi>
+               </p>
+               <p>To eat and drink unworthily the blessed Sacrament, is to eat it and drink it without the Reverence, that is due to it; But he that e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<g ref="char:EOLhyphen"/>eth and drinketh without the dispositions, that I now laid down be<g ref="char:EOLhyphen"/>fore you, eateth and drinketh without the Reverence that is due to the blessed Sacrament. And therefore such an unhappy Chri<g ref="char:EOLhyphen"/>stian, eateth and drinketh his own damnation. The Example of those good Christians of the primitive Church is sufficient to en<g ref="char:EOLhyphen"/>courage us, to dispose our selves often, to receive the blessed Sacra<g ref="char:EOLhyphen"/>ment with Reverence and true Faith, and the Doctrine of St. <hi>Paul</hi> is sufficient to terrifie and frighten us from coming to the blessed Sa<g ref="char:EOLhyphen"/>crament, unless we be well disposed.</p>
+               <p>Now that I have proved that the Protestant Doctrine is the only
+<pb n="23" facs="tcp:172910:13"/> Doctrine that is conform to the Word of God, and to the soundest Part of all the Fathers of the primitive Church, I come to the third and last part of my Proposition; wherein I am to prove, that the Protestant Doctrine is the only Doctrine, that is conform to Sense and Reason.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The Third Part.</head>
+               <p>TO prove the Truth of this Part of my Proposition, it is suffi<g ref="char:EOLhyphen"/>cient,</p>
+               <p>First,<note place="margin">First Proposi<g ref="char:EOLhyphen"/>tion.</note> to prove that the Doctrine of Transubstantia<g ref="char:EOLhyphen"/>tion is against Sense, and therefore that by this Doctrine the greatest evidence of Christian Religion is lost.</p>
+               <p>Secondly,<note place="margin">Second Propo<g ref="char:EOLhyphen"/>sition.</note> to prove that the Doctrine of Transub<g ref="char:EOLhyphen"/>stantiation is against Reason, in as much as it doth force Christians to believe as Articles of Faith, what Christ never revealed, things absolutely impossible, and gross Con<g ref="char:EOLhyphen"/>tradictions. Which two Propositions being proved, it will evident<g ref="char:EOLhyphen"/>ly appear, that our Doctrine is the only Doctrine, that is conform to Sense and Reason; In the first place, I prove that the Doctrine of Transubstantiation is against Sense; And hereby that the great<g ref="char:EOLhyphen"/>est evidence of Christian Religion is lost.</p>
+               <p>If I am as sure, that the Doctrine of Transubstantia<g ref="char:EOLhyphen"/>tion is false, as they are sure,<note place="margin">Proofe of the first Proposition.</note> that Christian Religion is true, our Doctrine is the only Doctrine that is conform to Sense and Reason. But I am as sure that the Doctrine of Tran<g ref="char:EOLhyphen"/>substantiation is false, as they are sure, that Christian Religion is true. Therefore our Doctrine is the only Doctrine that is conform to Sense and Reason.</p>
+               <p>The first Proposition of this Argument is undenyable to any Man of Sense.</p>
+               <p>As for the second, that I am as sure that the Doctrine of Tran<g ref="char:EOLhyphen"/>substantiation is false, as they are sure that Christian Religion is true. I prove</p>
+               <p>The greatest assurance they have of Christian Religion, and the greatest evidence that was in the days of Christ, is, what sense
+<pb n="24" facs="tcp:172910:14"/> doth afford; But this assurance of sense that they have of Christian Religion, is an evidence to me that the Doctrine of Transubstantia<g ref="char:EOLhyphen"/>tion is false. Therefore I am as sure that the Doctrine of Transub<g ref="char:EOLhyphen"/>stantiation is false, as they are sure that Christian Religion is true.</p>
+               <p>The first Proposition, that the greatest assurance they have, and the greatest evidence that was in the days of Christ, of Christian Religion, was, what Sense did afford, I prove.</p>
+               <p>The greatest Argument of Christianity that was in the days of Christ, was the Words that Christ spake, and the Works that Christ did. — But no Man could be sure, that Christ did so speak, or so work, if he may not credit the reports of his Eys and Ears. And therefore the greatest evidence they have, and that was in the days of Christ, of Christian Religion, was, what Sense did afford.</p>
+               <p>This Argument is evident, and there is not one Proposition that can be denyed. — For this was St. <hi>Luke</hi>'s great evidence of what he writes, that it was <hi>delivered to him by Eye-witnesses,</hi> Chap. 1. and 2. vers. And St. <hi>John</hi>'s, <hi>What we have seen with our own Eyes, and our Hands have handled of the Word of life.</hi> And St. <hi>Paul</hi>'s for Christs Resurrection, <hi>That he was seen of Cephas, then of the twelve, then of the</hi> 500. 1 <hi>Cor.</hi> 15 Chap. 5. and 6 ver. Even <hi>Thomas</hi> his infideli<g ref="char:EOLhyphen"/>ty yielded to this Argument, that if he <hi>thrust his Hand into</hi> Christs <hi>side, he would believe, John</hi> Chapt. 20. vers. 25. Christ himself judg<g ref="char:EOLhyphen"/>ed this a convincing Argument, when the Apostles thought he had been a Spirit, <hi>handle me and see, for a Spirit hath not flesh and bones, as you see me have,</hi> Luke 24. vers. 29. Since now I have proved that the greatest evidence of Christian Religion is, what Senses doth afford, I shall now resume my Argument, and Prove that the assu<g ref="char:EOLhyphen"/>rance they have of Christian Religion, is an evidence to me, that the Doctrine of Transubstantiation is false.</p>
+               <p>For as all their Senses do tell them, as a convincing Argument, that Christian Religion is true, so all my Senses do tell me as a convincing Argument, that the blessed Sacrament is only Bread and Wine: or if we may not credit our Senses as they say, we must not, concerning the Sacrament, then by the Doctrine of Transub<g ref="char:EOLhyphen"/>stantiation the greatest evidence of Christianity is lost, which I had to prove. And by this it doth clearly appear, that our Do<g ref="char:EOLhyphen"/>ctrine is the only Doctrine that is conform to Sense.</p>
+               <pb n="25" facs="tcp:172910:14"/>
+               <p>My second Argument is, that the Doctrine of Transubstantiation is against Reason.</p>
+               <p>That Doctrine is against Reason, that makes People believe as Articles of Faith, what Christ never revealed,<note place="margin">Proof of the se<g ref="char:EOLhyphen"/>cond Proposition</note> things absolutely impossible and gross Contradictions. But the Doctrine of Transubstantiation makes People believe as Ar<g ref="char:EOLhyphen"/>ticles of Faith, what Christ never revealed, things absolutly im<g ref="char:EOLhyphen"/>possible, and gross Contradictions. Therefore the Doctrine of Transubstantiation is against Reason.</p>
+               <p>As for the first Proposition, that Doctrine is against Reason, that makes People believe as Articles of Faith, what Christ never reveal<g ref="char:EOLhyphen"/>ed, things absolutely impossible, and gross Contradictions, it cannot be denyed.</p>
+               <p>As for the second Proposition, that the Doctrine of Transubstan<g ref="char:EOLhyphen"/>tiation makes People believe as Articles of Faith, what Christ ne<g ref="char:EOLhyphen"/>ver revealed, things absolutely impossible, and gross Contradictions, it will evidently appear, when I have laid down here before you, some part of their Doctrine, concerning the Sacrament, which is imposed upon Christians by the Pope and the Council of <hi>Trent,</hi> with no less Obligation to believe, as Articles of Faith, then what is con<g ref="char:EOLhyphen"/>tained in the Profession of our Christian Faith, I mean in the Creed, and revealed by God himself.</p>
+               <p>First they say that by these Words, <hi>This is my Body,</hi> &amp;c. the substance of the Bread and Wine is changed into the substance of the Body and Blood of Christ. [First Part of their Doctrine and Belief concerning the blessed Sacrament,] and this they call <hi>Transubstantiation,</hi> a Word invented in the Council of <hi>Lateran,</hi> in the Year 1215, for <hi>Scotus</hi> one of the chiefest of their own Schoolmen subscribes, that before this Coun<g ref="char:EOLhyphen"/>cil the Doctrine of Transubstantiation was not believed as an Article of Faith; and to this Testimony of <hi>Scotus, Bellarmine</hi> cannot other<g ref="char:EOLhyphen"/>wise answer, then by <hi>a minime probandum, (that it is not to be allowed;)</hi> but he cannot deny, but the Word Transubstantiation was invented in this Council, and that the Doctrine and Belief of Transubstantia<g ref="char:EOLhyphen"/>tion until the Year 1060, was a matter of indifference, and not an Article of Faith, as <hi>Tonstall</hi> another of their own best Schoolmen professeth in his first Book upon the Sacrament 48. pag. <hi>Demodo
+<pb n="26" facs="tcp:172910:15"/> quo id fieret, fortasse satius erat curiosum quemque relinquere conjecturae, sicut liberum fuit ante Concilium Lateranense;</hi> That is to say, <q>Of the manner and means (of the Real presence,) how it might be, either by Transubstantiation, or otherwise, perhaps it had been better to leave every Man that would be curious, to his own Conjecture, as before the Council of Lateran, it was left.</q> I could bring down many more Writers and Schoolmen in their own Church, who are so far from granting Antiquity and Universality to this Doctrine, that they pro<g ref="char:EOLhyphen"/>fess, the Doctrine of Transubstantiation was lately received into the Church for a Point of Faith, but it is a matter of fact, that it was never believed as a point of Faith until 1060, (if then) when in the Council of <hi>Rome</hi> under <hi>Nicolaus</hi> the II. this Question was debated, but not decided, (as <hi>Bellarmine</hi> says,) for it was never openly decreed as an Article of Faith, before the Council of <hi>Lateran,</hi> in the Year 1215, and made use of in the Council of <hi>Trent,</hi> so that by succession of time corrupt and false Doctrine settled and rooted it self, and be<g ref="char:EOLhyphen"/>came a Law.</p>
+               <p>But observe that Christ never revealed this Part of their Doctrine: nor intended by these Words <hi>This is my Body,</hi> to change the substance of the Bread into his own real Body, as it appeareth first, because these Words taken in their proper Sense cannot be true, as I shall with the help of God, hereafter prove, when time and leisure shall permit me to speak in a particular Discourse of the Sense of these Words. Secondly, because Transubstantiation was never known in the primitive Church, as I already proved, which certainly had been known, if Christ intended by these Words, <hi>This is my Body,</hi> &amp;c. to change the substance of the Bread into the substance of his own Body.</p>
+               <p n="2">2. They say that the Body of Christ is within the Circumference of the Bread, and not this only, but the whole Body of Christ, is in the least crumb of the Bread, [second part of their Faith and Belief concerning the Sacrament.] To confute this second part of their Do<g ref="char:EOLhyphen"/>ctrine, observe first, that we are not bound to believe any thing as an Article of Faith, but what God has declared unto us, by constant Revelation in the holy Scripture.</p>
+               <p>Secondly that all their Divines, as well as ours, agree, that no Article of Christian Religion is contrary to reason.</p>
+               <pb n="27" facs="tcp:172910:15"/>
+               <p>But as to this second Part of their Doctrine and Faith concerning the blessed Sacrament, they must own and confess that Christ never revealed in any place of the whole Scripture, that his real Body is within the Circumference of the Bread, and not this only, but that his whole Body is in the least crumb of the Bread; and therefore it is an unexcusable mistake, and damnable Errour in learned Men to advance and impose wilfully upon Christians such Doctrine, as a matter of Faith, which as they themselves well know, if they would, but speak sincerely, Christ never revealed or taught in any place of the whole Scipture.</p>
+               <p>To come therefore more closely to the second Particular, that I proposed. Their Doctrine as to this Part is absolutely against Reason.</p>
+               <p>For it is impossible and absolutely against Reason, that the same Body at the same time, could be bigger than it self, longer than it self, broader than it self. But if the whole Body of Christ, be in the least crumb of the Bread, as they say, &amp; will have it a matter of Faith in their Church, The Body of Christ is bigger than it self, longer than it self, &amp; broader than it self, at the same time: for it is evident that the Body of Christ in Heaven is bigger, longer and broader than it self in a Wafer or a small crumb of Bread. And therefore the Doctrine of Tran<g ref="char:EOLhyphen"/>substantiation is absolutely against Reason.</p>
+               <p>Thirdly, they say that the Body of Christ is in the Sacrament without its dimensions, that is to say, that it is neither long, large, or profound, and yet that it remaineth still a natural and true Body, [third part of their Faith concerning the Sacrament.]</p>
+               <p>First this is absolutely against Reason, for it is impossible for any Man to understand, how a Body can remain a natural and true Body without being long, large, and profond, as I shall prove.</p>
+               <p>Secondly this is a new invented Doctrine, for such Doctrine was never taught in the Primitive Church, nay St. <hi>Austin</hi> taught and professed the contrary, and as if he had foreseen the inventions of our Adversaries, he prevented them, and confuted this Part of their Doctrine in his first Book and 57<seg rend="sup">th</seg> Epistle, saying that Bodies cannot exist without their dimensions, these are his Words.</p>
+               <p>
+                  <q>
+                     <hi>Tolle corporibus spatia, &amp; nusquam erunt, &amp; quia nusquam erunt, nec erunt, tolle corpora qualitatibus corporum, nec erit ubi sunt, &amp; ideo ue<g ref="char:EOLhyphen"/>cesse est ut non sint.</hi> That is to say in a Word. "Take away their
+<pb n="28" facs="tcp:172910:16"/> dimensions from Bodies, and they shall be no where, and because they shall be no where, neither can they exist.</q> And therefore according to the Doctrine of St. <hi>Austin</hi> it is absolutely impossible, that a Body could remain, and be in being without its dimensions. This is what St. <hi>Austin</hi> taught, and this is what is conform to reason and experience, and Christ never revealed in any place of the whole Scripture the contrary to be possible. But the Doctrine of Transub<g ref="char:EOLhyphen"/>stantiation doth force Christians to believe the contrary as a profes<g ref="char:EOLhyphen"/>sed point of their Faith, and therefore the Doctrine of Transubstan<g ref="char:EOLhyphen"/>tiation is a new invented Doctrine absolutely against reason.</p>
+               <p>Thirdly the only essential difference we find between a Body and a Spirit, is, that a Spirit has no dimensions, that it is indivisible, or cannot be divided, and that it takes up no room or place. All this we understand and conceive plainly to be true and possible, be<g ref="char:EOLhyphen"/>cause a Spirit has no parts; so that it is impossible and a manifest Contradiction, that any thing could have or enjoy all these essential properties of a Spirit, that is to say, first to be without dimensions, or as Divines speak, to be in a place in a definitive manner; second<g ref="char:EOLhyphen"/>ly, to be indivisible; thirdly to be in a place and take up no room, without being a Spirit. But the Doctrine of Transubstantiation doth force Christians to believe, that the Body of Christ is in the Sacra<g ref="char:EOLhyphen"/>ment, first without its dimensions, 2. that it is indivisible, 3. that it takes up no room, and yet that it remaineth still a true Body, and has its divisible Parts, which is a horrid Contradiction, for it is to say, that it is, and that it is not a Body at the same time; and there<g ref="char:EOLhyphen"/>fore the Doctrine of Transubstantiation is absolutely against reason. He that can believe all these inventions of Men, I am sure, will stick at nothing.</p>
+               <p n="4">4. They say, that as the Body of Christ by Divine power is at the same time in several places in an invisible manner, so might any other Body by Divine power, be at the same time in several places in a visible manner. Observe what Extremities the Doctrine of Transubstantiation has lead them to; for they must either maintain by right or wrong, that it is not against the Nature, or Essence of a Body, and that it is possible by Divine power, that <hi>John,</hi> (for Ex<g ref="char:EOLhyphen"/>ample) can be at the same time in several places, as in <hi>Dublin,</hi> in
+<pb n="29" facs="tcp:172910:16"/>
+                  <hi>London,</hi> in <hi>Rome,</hi> nay at the same time in all places of the whole World, or the Doctrine of Transubstantiation falls of it self. For they say that wherever a Popish Mass is said, there the real Body of Christ is, so that if a Mass was said upon every Foot of the whole Earth, the Body of Christ should likwise be upon every Foot of the whole Earth. And so might any other Body be (as they say,) by Divine power.</p>
+               <p>And so let us suppose, as they do, that <hi>John</hi> by Divine power, (which as you understand is impossible,) is at the same time in <hi>London,</hi> in <hi>Paris,</hi> and in <hi>Dublin.</hi> They say, that <hi>John</hi> in all these places at the same time, wherever he is, is Master of his own acti<g ref="char:EOLhyphen"/>ons, and can do what he please.</p>
+               <p>Grounded upon this false Principle they say, that it is possible, that <hi>John</hi> could be here at Divine service, and at the same time be in <hi>London</hi> fast asleep, and in <hi>Paris</hi> waking.</p>
+               <p n="2">2. That <hi>John</hi> in <hi>London</hi> may walk towards <hi>Dublin,</hi> and <hi>John</hi> in <hi>Dublin</hi> may walk towards <hi>London,</hi> and so they may meet, (shall I say the one the other,) but you may be sure, it will be a merry meeting.</p>
+               <p n="3">3. <hi>John</hi> may be feasting in <hi>London,</hi> and fasting in <hi>Dublin</hi> in the same moment, <hi>&amp;c.</hi>
+               </p>
+               <p>I am sure there is no Man that will credit reason, and speak sin<g ref="char:EOLhyphen"/>cerly without partiality or prevention, but will judge all this Do<g ref="char:EOLhyphen"/>ctrine impossible, and as so many horrid and monstrous Contradi<g ref="char:EOLhyphen"/>ctions.</p>
+               <p>But they say more, that it is possible that <hi>John</hi> in <hi>London</hi> may lead a good righteous and a sober life, and at the same time be an ill and sinful liver in <hi>Rome,</hi> so that according to their Doctrine it is possible, that <hi>John</hi> in <hi>Rome</hi> should dye and be damned, and in the same instant dye in <hi>London</hi> and be saved, and so at the same time be an Angel in Heaven, and a Devil in Hell. This is, what is monstrous to main<g ref="char:EOLhyphen"/>tain as possible; but it is, what the Doctrine of Transubstantion doth force their Divines to maintain (by right or wrong) as possi<g ref="char:EOLhyphen"/>ble; And therefore the Doctrine of Transubstantiation doth force Christians to believe, what is absolutely impossible, and gross Con<g ref="char:EOLhyphen"/>tradictions, and consequently is against Reason.</p>
+               <pb n="30" facs="tcp:172910:17"/>
+               <p>I might be infinite in rekoning many other impossibilities and horrid Contradictions of this Doctrine: I say again, that he that can believe them, I am sure shall stick at nothing.</p>
+               <p>
+                  <note place="margin">The Answer of our Adversaries to their Doctrine above mention<g ref="char:EOLhyphen"/>ed.</note>Our Adversaries do answer to all these Arguments, that though all this Doctrine seemes to us impossible, and against Reason, yet it is not impossible to God to do such things, and they say, that we measure GOD's power by our own Reason and Understanding; and be<g ref="char:EOLhyphen"/>cause we find such things impossible to our own Reason, that we conclude, they are impossible to God.</p>
+               <p>
+                  <note place="margin">This Answer refuted by <hi>3.</hi> reasons.</note>To confute clearly this Answer, observe three things.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Proposition. </seg>1</label> First that they have no grounds to advance that what they teach in this Doctrine is possible to God.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Proposition. </seg>2</label> 2. That it is no dishonour to God, that he cannot (though infinite in power,) do what they teach in this Doctrine.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Proposition. </seg>3</label> 3. That what they say of the infinite power of God, is a weak Argument, and proves nothing in this case.</p>
+               <p>
+                  <note place="margin">Proof of the first Proposition.</note>To prove my first Proposition, that they have no grounds to advance or prove wha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they teach in this Doctrine as possible to God, I say, first that they can never prove by reason, that the same Body may at the same time be in several places, and this part they allow; secondly God never re<g ref="char:EOLhyphen"/>vealed in any place of the whole Scripture such a thing to be pos<g ref="char:EOLhyphen"/>sible; therefore they have no grounds to say that what they teach in this Doctrine is possible to God; for the only grounds they can have, is Reason or Revelation; But as I now did prove, they have neither the one or the other; and therefore they advance this Do<g ref="char:EOLhyphen"/>ctrine as possible to God without any grounds.</p>
+               <p>My second Proposition,<note place="margin">The proof of the se<g ref="char:EOLhyphen"/>cond Proposition.</note> that it is no dishonour to God, though infinite in power, that he cannot do what they teach in this Doctrine is clear.</p>
+               <p>For it is no dishonour to God, to say he cannot do things, when they are either sinful, (so God cannot lye,) or when they involve an absolute Contradiction; for God himself cannot make a Man at
+<pb n="31" facs="tcp:172910:17"/> the same time in the same manner to be dead and a live, that is, dead and not dead. God cannot make the whole less than a part of it; he cannot make a Son to beget his Father; he cannot make the same Man to be born at two several times, as their own Authors do confess: And therefore in like manner he cannot make the same Bo<g ref="char:EOLhyphen"/>dy to be in two several places at the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me, and without its di<g ref="char:EOLhyphen"/>mensions; for it is no less impossible than the other.</p>
+               <p>As for my third Proposition, that what they say of the infinite Power of God, is a weak Argument, and proves nothing in this matter, it is most certain:</p>
+               <p>For it is a weak Argument to say that God by his infinite power,<note place="margin">The Proof of the third Proposi<g ref="char:EOLhyphen"/>tion.</note> can make the same Body at the same time to be in several places; And then to conclude as an Article of Faith, that God hath so done. For though we may grant, as we do not, that God by his infinite power, can make the same Body to be at the same time in s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ral places, yet because God never revealed in the whole Scripture, that he did any such thing; our Adversaries do mistake and grosly err in concluding it as an Article of Faith.</p>
+               <p>This I shall make plain by a familiar Example: We know that God can create another World: we must not therefore conclude as an Article of Faith, that God has created another World, because God has never revealed it; In like manner though we should know, as we do not, that God by his infinite power could make the same Body to be at the same time in several places, yet we must not con<g ref="char:EOLhyphen"/>clude as an Article of Faith, that God has done so; because he ne<g ref="char:EOLhyphen"/>ver revealed in any place of the whole Scripture, that he did any such thing. And therefore what our Adversaries say of the infinite power of God, is a weak Argument, and proves nothing in this case. And therefore what is to be concluded, is that their Doctrine is against reason, and consequently that our Doctrine is the only Doctrine that is conform to sense and reason.</p>
+               <p>Now dear Brethren, that I have shewed you plainly, that our Doctrine is the only Doctrine, that in this Controversie, is conform to the Word of God, to the Fathers of the Primitive Church, to sense
+<pb n="32" facs="tcp:172910:18"/> and reason. I finish this Discourse, humbly begging our heavenly Father through the merits of our Saviour Jesus Christ, that it may please him to give us grace to walk truly and sincerely in our Do<g ref="char:EOLhyphen"/>ctrine, to fear and love him, and obey faithfully his Command<g ref="char:EOLhyphen"/>ments, that after this transitory life, we may enjoy everlasting life and eternal happiness.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172910:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
